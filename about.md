@@ -1,13 +1,3 @@
-
----
-layout: post
-title: About Me
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
-toc:  true
----
-
 ---
 안녕하세요. 제 이름은 이재학입니다. 해외에서는 what_web이라는 닉네임으로 활동하고 있으며 주로 웹 애플리케이션에 대한 보안 취약점을 연구하고 분석하는 것을 좋아하는 버그바운티 헌터입니다. 지금까지 약 1,500건의 보고서를 제출했으며, 불충분한 인증/인가(IDOR), 인증 우회(Authentication bypass), 계정 탈취(Account Takeover) 및 깨진 엑세스 제어(Broken Access Control), 잘못된 보안 구성 오류(Security Misconfiguration) 취약점 분야를 전문적으로 다루고 있습니다.
 
