@@ -6,164 +6,103 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
-{: .message }
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
+---
+**안녕하세요. 제 이름은 이재학입니다. 해외에서는 what_web이라는 닉네임으로 활동하고 있으며 주로 웹 애플리케이션에 대한 보안 취약점을 연구하고 분석하는 것을 좋아하는 버그바운티 헌터입니다. 지금까지 약 1,500건의 보고서를 제출했으며, 불충분한 인증/인가(IDOR), 인증 우회(Authentication bypass), 계정 탈취(Account Takeover) 및 깨진 엑세스 제어(Broken Access Control), 잘못된 보안 구성 오류(Security Misconfiguration) 취약점 분야를 전문적으로 다루고 있습니다.**
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="/test001.png" width="250" hieght="333" alt="">    <img src="/test002.png" width="254" hieght="333" alt="">   <img src="/test00.png" width="550" hieght="533" alt="">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+---
 
-## Inline HTML elements
+<h2> Honors & Awards </h2>
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- <mark>To highlight</mark>, use `<mark>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+* **2025**, 
+    * **2025 핵더챌린지**, **취약점 발굴 대회 참가**
+    
+* **2024**, 
+    * **2024 화이트햇 투게더**, **취약점 발굴 대회 참가**
+        * **대회 운영사(잇잡, 혜움 취약점 제보 및 쳬택)** 
 
-Most of these elements are styled by browsers with few modifications on our part.
+* **2021**, 
+    * **2021 Hack the Challenge**, **취약점 발굴 대회 참가**
+        * **대회 운영사(신세계, KISA보호나라, SR 취약점 제보 및 쳬택)** 
+* **2020**, 
+    * **2020 Hack the Challenge**, **취약점 발굴 대회 참가**
+        * **대회 운영사(KISA 보호나라, 지란지교, 잉카인터넷, 삼성SDS 취약점 제보 및 쳬택)** 
 
-## Footnotes
+* **2019**, 
+    * **2019 Hack the Challenge**, **취약점 발굴 대회 참가**
+        * **대회 운영사(네이버, 소테리아, KISA 보호나라 취약점 제보 및 쳬택)** 
+* **2018**,
+    * **2018 Hack the Kisa**, **취약점 발굴 대회 참가**
+        * **대회 운영사(KISA 운영 홈페이지 취약점 제보 및 쳬택)** 
+    * **본선진출**, **제 13회 중고생정보보호올림피아드**
 
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
+  
+---
 
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
+<h2> Bugbounty </h2>
 
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
+* **2025**,
+     * **HackerOne 버그바운티 취약점 제보** 
+     * **KISA 한국인터넷진흥원 보안 취약점 신고포상제**
+        * **공동 운영사(LG U+, 한컴, KaKao 모빌리티, 카카오스타일)** 
+     * **FindtheGap 버그바운티 취약점 제보** 
+        * **(삼성 SDS, NC Soft)** 
+     * **KaKao 자체 버그바운티 취약점 제보** 
+* **2024**,
+     * **HackerOne 버그바운티 취약점 제보** 
+     * **FindtheGap 버그바운티 취약점 제보** 
+        * **(잇잡, 혜움)** 
+    * **patchday 버그바운티 취약점 제보** 
+        * **(Genians Bug Bounty Program)** 
+* **2021**,
+     * **HackerOne 버그바운티 취약점 제보** 
+     * **KISA 한국인터넷진흥원 보안 취약점 신고포상제**
+        * **공동 운영사(카카오,카카오뱅크)** 
+    * **(구) 해킹존 버그바운티 취약점 제보** 
+        * **(onthelook)** 
+    * **2021 네이버 자체 버그바운티 취약점 제보**
+    * **patchday 버그바운티 취약점 제보** 
+        * **(PatchDay, Dreamhack)** 
+    * **bugcamp 버그바운티 취약점 제보** 
+        * **(한국CISSP협회 대표홈페이지, BaaSClopi, CodeEngn 대표 홈페이지, 엔큐리티, wargame.kr, webhacking.kr)** 
+* **2020**,
+    * **KISA 한국인터넷진흥원 보안 취약점 신고포상제**
+        * **공동 운영사(카카오뱅크)** 
+    * **2020 네이버 자체 버그바운티 취약점 제보**
+    * **HackerOne 버그바운티 취약점 제보** 
+    * **(구) 해킹존 버그바운티 취약점 제보** 
+        * **삼성SDS, Brity mail, Brity Meeting, Brity RPA, Marimba** 
+* **2019**,
+    * **KISA 한국인터넷진흥원 보안 취약점 신고포상제**
+        * **공동 운영사(Naver, KaKao)** 
+    * **2019 리디 자체 버그바운티 취약점 제보** 
 
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
+* **2018**,
+    * **KISA 한국인터넷진흥원 보안 취약점 신고포상제**
+        * **공동 운영사(Naver)** 
 
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
+---
 
-## Heading
+<h2> Education </h2> 
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+* **Gangnam University** <img src="/images.png" width="15" hieght="333" alt="">
+    * **ICT융합공학부 소프트웨어전공**
+    * **학부 3학년 재학**
+* **K-Shield Jr 3th, KISA** <img src="/wqeqwe.png" width="23" hieght="333" alt="">
+    * **정보보호관리진단 트랙 수료**
+    * **2019.08 ~ 2019.11 (3 개월)**
 
-### Code
+---
 
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
+<h2> Concat </h2>
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
-
-{% highlight js linenos %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-Align to the center by adding `class="align-center"`:
-
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+**3testhackeronetest@gmail.com**
 
 -----
 
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
 
 [^fn-sample_footnote]: Handy! Now click the return link to go back.
