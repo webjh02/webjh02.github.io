@@ -1,7 +1,7 @@
 ---
 안녕하세요. 제 이름은 이재학입니다. 해외에서는 what_web이라는 닉네임으로 활동하고 있으며 주로 웹 애플리케이션에 대한 보안 취약점을 연구하고 분석하는 것을 좋아하는 버그바운티 헌터입니다. 지금까지 약 1,500건의 보고서를 제출했으며, 불충분한 인증/인가(IDOR), 인증 우회(Authentication bypass), 계정 탈취(Account Takeover) 및 깨진 엑세스 제어(Broken Access Control), 잘못된 보안 구성 오류(Security Misconfiguration) 취약점 분야를 전문적으로 다루고 있습니다.
 
-<img src="https://github.com/webjh02/webjh02.github.io/blob/master/test001.png" width="250" hieght="333" alt="">    <img src="https://github.com/webjh02/webjh02.github.io/blob/master/test002.png" width="254" hieght="333" alt="">   <img src="/Users/jaehak/xss-test/git/webjh02.github.io/testimage/test3.png" width="550" hieght="533" alt="">
+<img src="https://github.com/webjh02/webjh02.github.io/blob/master/test001.png" width="250" hieght="333" alt="">    <img src="https://github.com/webjh02/webjh02.github.io/blob/master/test002.png" width="254" hieght="333" alt="">   <img src="https://github.com/webjh02/webjh02.github.io/blob/master/test1.png" width="550" hieght="533" alt="">
 
 
 ---
