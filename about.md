@@ -111,9 +111,6 @@ toc:  true
 -----
 
 
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-
-
 
 **Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
