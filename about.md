@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-
 
 ---
 layout: post
